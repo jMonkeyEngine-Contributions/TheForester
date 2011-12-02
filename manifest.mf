@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: se.fojop.theforester
+OpenIDE-Module-Implementation-Version: 0
+OpenIDE-Module-Layer: se/fojop/theforester/layer.xml
+OpenIDE-Module-Localizing-Bundle: se/fojop/theforester/Bundle.properties
+
