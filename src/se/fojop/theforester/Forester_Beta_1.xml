@@ -5,19 +5,17 @@ and open the template in the editor.
 -->
 <!DOCTYPE library PUBLIC "-//NetBeans//DTD Library Declaration 1.0//EN" "http://www.netbeans.org/dtds/library-declaration-1_0.dtd">
 <library version="1.0">
-    <name>Forester</name>
+    <name>Forester_Beta_1</name>
     <type>j2se</type>
     <localizing-bundle>se.fojop.theforester.Bundle</localizing-bundle>
     <volume>
         <type>classpath</type>
-        <resource>jar:nbinst://se.fojop.theforester/libs/Forester.jar!/</resource>
+        <resource>jar:nbinst://se.fojop.theforester/libs/Forester_Beta_1.jar!/</resource>
     </volume>
     <volume>
         <type>src</type>
-        <resource>jar:nbinst://se.fojop.theforester/sources/Forester-src.zip!/</resource>
     </volume>
     <volume>
         <type>javadoc</type>
-        <resource>jar:nbinst://se.fojop.theforester/docs/Forester-javadoc.zip!/</resource>
     </volume>
 </library>

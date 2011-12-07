@@ -3,7 +3,7 @@
 <filesystem>
     <folder name="org-netbeans-api-project-libraries">
         <folder name="Libraries">
-            <file name="Forester.xml" url="Forester.xml"/>
+            <file name="Forester_Beta_1.xml" url="Forester_Beta_1.xml"/>
         </folder>
     </folder>
 </filesystem>
