@@ -14,8 +14,10 @@ and open the template in the editor.
     </volume>
     <volume>
         <type>src</type>
+        <resource>jar:nbinst://se.fojop.theforester/sources/Forester_Beta_1-src.zip!/</resource>
     </volume>
     <volume>
         <type>javadoc</type>
+        <resource>jar:nbinst://se.fojop.theforester/docs/Forester_Beta_1-javadoc.zip!/</resource>
     </volume>
 </library>
